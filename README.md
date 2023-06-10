@@ -9,4 +9,4 @@ Cara upload digithub
  git push -u origin master
  
   wesbite link :
-  http://uptd.epizy.com
+  http://webuptd.epizy.com/index.php
